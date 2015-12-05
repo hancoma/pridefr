@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pridefr.anyphoto" version="1.0.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>pridefr</name>
+<widget id="com.pridetw.anyphoto" version="1.0.9" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Pridetw</name>
     <description>
-       pridefr
+       pridetw
     </description>
-    <author email="ch7@daum.net" href="http://m.pridefr.com">
-        pridefr
+    <author email="ch7@daum.net" href="http://m.pridetw.com">
+        pridetw
     </author>
     <content src="index.html" />
     
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.7.0" />
-    <preference name="orientation" value="default" />
+    <preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="true" />
