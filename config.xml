@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.pridetw.anyphoto" version="1.0.9" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Pridetw</name>
+<widget id="com.pridefr.anyphoto" version="1.0.9" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>pridefr</name>
     <description>
-       pridetw
+       pridefr
     </description>
-    <author email="ch7@daum.net" href="http://m.pridetw.com">
-        pridetw
+    <author email="ch7@daum.net" href="http://m.pridefr.com">
+        pridefr
     </author>
     <content src="index.html" />
     
